@@ -4,8 +4,8 @@ If you need a template for your web store, maybe this template is a solution for
 - HTML
 - CSS
 - JavaScript
-- Google Font (https://fonts.google.com/)
-- Photo Source (https://unsplash.com/)
+- Google Fonts (https://fonts.google.com/)
+- Photos Source (https://unsplash.com/)
 
 ## Features
 
