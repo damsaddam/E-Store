@@ -5,7 +5,7 @@ If you need a template for your web store, maybe this template is a solution for
 - CSS
 - JavaScript
 - Google Fonts (https://fonts.google.com/)
-- Photos Source (https://unsplash.com/)
+- Photos Source (https://unsplash.com/ & https://erigostore.co.id/)
 
 ## Features
 
